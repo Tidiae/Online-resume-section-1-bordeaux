@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;700&family=Roboto:wght@100;400;500;900&display=swap');
+
+body {
+  font-family: Botera, sans-serif;
+  background-color: #D3D1CF;
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+
+img  {
+  height: 175px;
+  width: 175px;
+  border-radius: 60%;
+}
+
+div {
+  background-color: white;
+  width: 1000px;
+  margin: 16px auto;
+  padding: 24px;
+  border-radius: 7px;
+  box-shadow: 0px 10px 9px 3px #00000099;
+}
+
+h1, h2 {
+  font-family: 'Caslon', serif;
+}
+
+h1 {
+  color: #93918F;
+  font-size: 48px;
+}
+
+h2 {
+  color: #FF9C33;
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Botera', sans-serif;
+}
+
+
+
+.btn-black {
+  color: #00000045;
+  font-size: 48px;
+  transition: 1s;
+}
+
+.btn-black:hover {
+  color: black;
+  transition: 1s;
+}
+
+.list-inline {
+  padding: 0;
+}
+
+.list-inline li{
+  list-style: none;
+  display: inline;
+}
+
